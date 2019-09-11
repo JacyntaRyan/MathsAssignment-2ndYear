@@ -1,0 +1,5 @@
+﻿  mathsAss1.cpp
+C:\Users\Jacynta\source\repos\mathsAss1\mathsAss1\mathsAss1.cpp(12,17): error C3861:  'RSAEncryption': identifier not found
+C:\Users\Jacynta\source\repos\mathsAss1\mathsAss1\mathsAss1.cpp(13,15): error C3861:  'RSAEncryption': identifier not found
+C:\Users\Jacynta\source\repos\mathsAss1\mathsAss1\mathsAss1.cpp(97,41): warning C4244:  'argument': conversion from 'big' to 'int', possible loss of data
+C:\Users\Jacynta\source\repos\mathsAss1\mathsAss1\mathsAss1.cpp(145,9): warning C4244:  'return': conversion from 'big' to 'int', possible loss of data
